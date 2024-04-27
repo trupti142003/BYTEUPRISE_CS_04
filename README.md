@@ -1,5 +1,5 @@
-## HOW DOES IT WORK?
-MakeLobbiesGreatAgain uses a packet capture library to detect STUN packets from any peer-to-peer connection, in order to determine who you're connected to and get ping from. This should work for any Steam API-based game, as the Jingle library is used for the STUN, etc. functions of the Steam API.
+## HOW DOES IT WORK
+uses a packet capture library to detect STUN packets from any peer-to-peer connection, in order to determine who you're connected to and get ping from. This should work for any Steam API-based game, as the Jingle library is used for the STUN, etc. functions of the Steam API.
 
 It is not detected as a hack, since it does not and will not interact directly with a game ever. 
 
