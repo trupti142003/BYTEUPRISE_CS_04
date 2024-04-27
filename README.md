@@ -5,7 +5,7 @@ It is not detected as a hack, since it does not and will not interact directly w
 
 ## APPLICATION SUPPORTS BOTH CLIENTS AND HOSTS
 
-**NOTE**: If you were linked here from another source, such as Reddit, be sure to check for the latest versions for the best quality. You can find all versions here: (https://github.com/PsiLupan/MakeLobbiesGreatAgain/releases)
+**NOTE**: If you were linked here from another source, such as Reddit, be sure to check for the latest versions for the best quality. You can find all versions.
 
 Primary Feature:
 * Determining Ping
